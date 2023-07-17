@@ -1,0 +1,3 @@
+/home/rafal/EasyShapeDetection/CMakeFiles/ShapeDetection.dir
+/home/rafal/EasyShapeDetection/CMakeFiles/edit_cache.dir
+/home/rafal/EasyShapeDetection/CMakeFiles/rebuild_cache.dir
