@@ -8,4 +8,4 @@
 make
 ```
 ## Usage
-This simple code process an image passed in, in order to return detected shapes with their identificators.
+This simple code process an image passed in, then it returns detected shapes with their identificators.
